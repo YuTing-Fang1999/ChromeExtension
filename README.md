@@ -1,6 +1,6 @@
 ### 背景介紹  
 網址旁邊如果有個鎖，就代表是用https傳輸，資料會加密   
-![](https://i.imgur.com/xU38m3q.png)   
+![](1.png)   
 
 但如果是用http傳的話，資料不會被加密，就可以使用SSLstrip攻擊，擷取你的傳輸資料   
 ![](https://i.imgur.com/oQcgHHQ.png)   
